@@ -10,4 +10,4 @@ export const usePrev=(value)=>{
   return ref.current//1
 
   //return first effect get called later
-}
+} 
